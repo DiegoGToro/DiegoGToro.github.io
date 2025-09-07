@@ -6,15 +6,15 @@ body {
     color: #333;
 }
 
-header {
-    background: #0077b6;
+header {    
+    background: #5f8fcd;
     color: white;
     padding: 20px;
     text-align: center;
 }
 
 nav {
-    background: #023e8a;
+    background: #5f8fcd;
     padding: 10px;
     text-align: center;
 }
@@ -50,7 +50,7 @@ button:hover {
 }
 
 footer {
-    background: #03045e;
+    background: #5f8fcd;
     color: white;
     text-align: center;
     padding: 15px;
